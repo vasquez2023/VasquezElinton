@@ -24,7 +24,7 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Elinton Andres <b> Vasquez Vivero </b>, Estudiante esmeraldeño que crusa el 7 ciclo de la carreara de ingenieria en sistemas mi materia favorita es la gestion de base de datos y programacion aun que en esta me desempeño de manera regular . </p>
+                   <p class="eys-parrafo">Hola, yo soy Elinton Andres <b> Vasquez Vivero </b>, Estudiante esmeraldeño que crusa el septimo ciclo de la carreara de ingenieria en sistemas mi materia favorita es la gestion de base de datos y programacion aun que en esta me desempeño de manera regular . </p>
                    <p class="eys-parrafo">En la secundaria me fui interesando mucho por el area informatica de hecho mi titulo de bachiller es en esta area, es por ello que decidi escojer una carrera acorde con lo que me habia graduado en el colegio </p>
 <p class="eys-parrafo"> El primer lenguaje con el cual tuve mi primer contacto con la programacion fue el  <b><a href="https://es.wikipedia.org/wiki/Genie_(lenguaje_de_programación)"> basic</a></b>  aun que en un inicio fue muy dificil los profesores hicieorn que el entender lo que era la programacion fuese mas sencillo.</p>
 
@@ -80,13 +80,13 @@ include("marco-left.php")
  
 <script >  
 
- document.title="Stalin"; 
-document.getElementById("foto").src="./images/stalin.png";
-document.getElementById("elnombre").innerHTML="Stalin Francis";
+ document.title="Vasquez"; 
+document.getElementById("foto").src="./images/elinton.jpeg";
+document.getElementById("elnombre").innerHTML="Elinton Vasquez";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://congresoutlvte.org/QuinonezIvan/'>Quiñonez Morales Ivan</a></p><p><a href='https://congresoutlvte.org/QuinonezBryan/'>Quiñonez Morales Bryan</a></p><p><a href='https://congresoutlvte.org/AlvarezJennifer/'>Alvarez Ortega Jennifer</a></p><p><a href='https://congresoutlvte.org/TapiaBarbara/'>Tapia Barbara</a></p> ";
  </script>
  
 <?php
